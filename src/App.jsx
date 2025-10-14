@@ -22,7 +22,7 @@ function App() {
   const [reports, setReports] = useState([]);
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter  basename="/Lost-and-Found">
         <Routes>
           <Route path="/" element={<Home profileData={profileData} />} />
           <Route
