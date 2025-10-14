@@ -1,0 +1,43 @@
+.listings-title{
+    text-align: center;
+    padding: 20px;
+}
+
+.view-list-section{
+    background-color: rgba(10, 20, 40, 0.8); 
+    width: 80%;         
+    max-width: 1000px;    
+    margin: 30px auto 100px auto;   
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 12px rgba(0,0,0);
+}
+.view-list-head{
+    display: flex;
+    flex-direction: row;
+}
+.head-title{
+    font-size: 35px;
+    padding: 10px;
+    color: rgb(204, 204, 247);
+}
+.search-bar{
+    margin-top: 20px;
+    margin-left: 200px;
+    opacity: 0.8;
+    width:37%;
+    height: 2%;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.view-list-body{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.view-list-body td{
+    width:150px;
+    text-align: center;
+}

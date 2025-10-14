@@ -1,0 +1,52 @@
+.profile-header {
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(10, 20, 40, 0.8);
+  width: 80%;
+  max-width: 700px;
+  margin: 30px auto 100px auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0);
+  justify-content: center;
+  align-items: center;
+}
+.profile-image-div img {
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  border: 2px solid black;
+  object-fit: cover;
+  margin-bottom: 30px;
+}
+.profile-actions  {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  margin: 30px;
+}
+.edit-btn ,.logout-btn{
+    padding: 8px;
+    width: 150px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.edit-btn{
+    background-color: rgba(255, 255, 255, 0.763);
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.logout-btn{
+    background-color: rgba(255, 0, 0, 0.801);
+}
+.edit-btn:hover,.logout-btn:hover{
+    transform: scale(1.2);
+    transition: transform 1s ease;
+}

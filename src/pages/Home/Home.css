@@ -1,0 +1,52 @@
+.home-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.about-title {
+  font-size: 40px;
+  padding: 15px;
+}
+.about-content {
+  font-size: 15px;
+  width: 600px;
+  text-align: center;
+}
+.report-link-home {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  background-color: rgb(27, 27, 181);
+  margin: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  border:none;
+  box-shadow: 1px 1px 8px rgb(0, 0, 0);
+}
+.report-link-home:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+  transition: transform 1s ease;
+}
+.website-activity-stats{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 80px;
+    gap: 100px;
+}
+.total-cases-container,.cases-solved-container,.total-users-container{
+  margin-bottom: 100px;
+    background-color: rgb(10, 20, 40,0.7);
+    width: 300px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 8px rgba(201, 196, 196, 0.673);
+}
+

@@ -1,0 +1,66 @@
+.editprofile-header {
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.editprofile-content {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(10, 20, 40, 0.8);
+  width: 80%;
+  max-width: 700px;
+  margin: 30px auto 100px auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0);
+  justify-content: center;
+  align-items: center;
+}
+.edit-image img{
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  border: 2px solid black;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+.edit-imagebtn{
+    opacity: 0.9;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+    position:relative;
+    top: -35px;
+    left: -60px;
+}
+.edit-username,.edit-name ,.edit-email,.edit-number,.edit-gender{
+    opacity: 0.8;
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+
+.edit-actions{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin: 40px;
+}
+.edit-savebtn,.edit-cancelbtn{
+    width: 150px;
+    border-radius: 20px;
+    height: 40px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: black 2px solid;
+}
+.edit-savebtn:hover,.edit-cancelbtn:hover{
+    transform: scale(1.2);
+    transition: ease 1s transform;
+}
+
+

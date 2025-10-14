@@ -1,0 +1,61 @@
+.existing-user {
+  background-color: rgba(10, 20, 40, 0.8);
+  width: 80%;
+  max-width: 500px;
+  margin: 80px auto 100px auto;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0);
+  text-align: center;
+}
+.login-header {
+  font-size: 35px;
+  padding: 30px;
+}
+.login-content {
+  margin: 10px 50px 20px 90px;
+}
+.login-username-head , .login-password-head {
+  text-align: left;
+  padding: 10px;
+  font-size: medium;
+}
+.login-username-input , .login-password-input {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1); 
+  padding: 10px 15px;
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.login-username-input i, .login-password-input i {
+  margin-right: 10px; 
+  color: #e0e6f5; 
+  font-size: 18px;
+}
+
+.login-username-input input , .login-password-input input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #e0e6f5;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+.login-btn{
+    padding: 15px;
+    width: 200px;
+    font-size: 20px;
+    margin: 30px;
+    margin-left: -5px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: blue;
+    color: whitesmoke;
+}
