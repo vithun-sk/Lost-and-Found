@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to view the live website](https://vithun-sk.github.io/Lost-and-Found/)**
+🔗 **[Live Demo](https://vithun-sk.github.io/Lost-and-Found/)**
 
 ---
 
@@ -73,10 +73,15 @@ Follow these steps to run this project locally:
 Planned upgrades and upcoming features:
 
 ✅ Backend Integration using Node.js, Express & MongoDB
+
 ✅ User Authentication (Login/Signup with JWT)
+
 ✅ Image Uploads for item photos
+
 ✅ Category Filtering (electronics, documents, accessories, etc.)
+
 ✅ Real-time Search & Sorting
+
 ✅ Email Notifications when items match user reports
 
 🙌 Contributions
@@ -89,6 +94,7 @@ Feel free to fork this repo and submit a pull request.
 Vithun S K
 Frontend Developer | MERN Stack Learner
 
-📧 Email: [your-vithunkumar07@gmail.com]
-🔗 LinkedIn: [your-https://www.linkedin.com/in/vithun-sk/]
+📧 Email: [vithunkumar07@gmail.com]
+
+🔗 LinkedIn: [https://www.linkedin.com/in/vithun-sk/]
 
