@@ -63,10 +63,14 @@ Follow these steps to run this project locally:
    ```bash
    git clone https://github.com/vithun-sk/Lost-and-Found.git
 2. Navigate into the project directory
+   
     cd Lost-and-Found
-3. Run the project
+4. Run the project
+   
     Open the index.html file directly in your browser
     Or use VS Code’s Live Server extension for a smoother experience
+
+---
 
 💡 Future Enhancements
 
@@ -84,10 +88,14 @@ Planned upgrades and upcoming features:
 
 ✅ Email Notifications when items match user reports
 
+---
+
 🙌 Contributions
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
+
+---
 
 🧑‍💻 Developed by
 
