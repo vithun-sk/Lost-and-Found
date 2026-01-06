@@ -100,6 +100,7 @@ Feel free to fork this repo and submit a pull request.
 🧑‍💻 Developed by
 
 Vithun S K
+
 Frontend Developer | MERN Stack Learner
 
 📧 Email: [vithunkumar07@gmail.com]
