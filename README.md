@@ -65,7 +65,7 @@ Follow these steps to run this project locally:
 2. Navigate into the project directory
    
     cd Lost-and-Found
-4. Run the project
+3. Run the project
    
     Open the index.html file directly in your browser
     Or use VS Code’s Live Server extension for a smoother experience
