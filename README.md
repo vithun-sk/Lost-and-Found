@@ -63,10 +63,9 @@ Follow these steps to run this project locally:
    ```bash
    git clone https://github.com/vithun-sk/Lost-and-Found.git
 2. Navigate into the project directory
-   
+   ```bash
     cd Lost-and-Found
 3. Run the project
-   
     Open the index.html file directly in your browser
     Or use VS Code’s Live Server extension for a smoother experience
 
