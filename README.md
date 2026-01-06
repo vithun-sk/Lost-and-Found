@@ -66,6 +66,7 @@ Follow these steps to run this project locally:
    ```bash
     cd Lost-and-Found
 3. Run the project
+   
     Open the index.html file directly in your browser
     Or use VS Code’s Live Server extension for a smoother experience
 
