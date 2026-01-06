@@ -72,23 +72,6 @@ Follow these steps to run this project locally:
 
 ---
 
-💡 Future Enhancements
-
-Planned upgrades and upcoming features:
-
-✅ Backend Integration using Node.js, Express & MongoDB
-
-✅ User Authentication (Login/Signup with JWT)
-
-✅ Image Uploads for item photos
-
-✅ Category Filtering (electronics, documents, accessories, etc.)
-
-✅ Real-time Search & Sorting
-
-✅ Email Notifications when items match user reports
-
----
 
 🙌 Contributions
 
